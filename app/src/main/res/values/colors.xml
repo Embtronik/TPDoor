@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="stop">#fdd835</color>
+    <color name="open">#66bb6a</color>
+    <color name="close">#c30000</color>
+    <color name="azul">#000051</color>
+    <color name="press">#65499c</color>
+    <color name="fondo">#afb42b</color>
+    <color name="back">#373737</color>
+    <color name="blanco">#FFF</color>
+</resources>
